@@ -1,0 +1,8 @@
+models/
+results/
+runs/
+.ipynb_checkpoints/
+__pycache__
+
+imagen-pytorch
+*zip/

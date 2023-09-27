@@ -1,0 +1,4 @@
+*.password
+*.log
+*.out
+__pycache__
